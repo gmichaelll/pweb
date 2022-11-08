@@ -1,0 +1,31 @@
+    body{
+    background-image: url("gundar.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 130px;
+    margin-right: 100px;
+}
+
+table{
+    border: 5px ridge white;
+    border-collapse: collapse;
+    background-image: linear-gradient(#8a00e6, #ff8533);
+}
+
+#20pt{
+    font-size: 20px;
+}
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+th{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+td{
+    font-family: 'Times New Roman', Times, serif;
+}
